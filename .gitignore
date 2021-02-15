@@ -1,0 +1,8 @@
+/salida/*.txt
+/node_modules/
+30-requerir-paquetes-requiere.js.js
+31-importar-archivos-de-nuestro-proyecto.js
+32-recibir-informacion-desde-linea-de-comando.js
+34-yargs.js
+35-configuracion-yargs.js
+38-tabla-hasta-x.js
