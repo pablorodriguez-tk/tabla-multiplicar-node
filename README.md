@@ -1,5 +1,5 @@
 # Notas :
-Este es mi primer programa en Node
+Tabla de multiplicar modificable por consola
 
 ```
 Options:
